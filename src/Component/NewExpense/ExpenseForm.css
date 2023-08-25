@@ -1,0 +1,29 @@
+.expense-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 3px;
+}
+
+.expense-form label {
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.expense-form input {
+    width: 20rem;
+    height: 2rem;
+    border-radius: 7px;
+    border: 2px solid black;
+}
+
+input::placeholder {
+    text-align: center;
+    opacity: 0.5;
+}
+
+button {
+    padding: 0.5rem;
+    border-radius: 6px;
+    margin: 0 5px;
+}

@@ -1,0 +1,12 @@
+.expense-date {
+    width: 4rem;
+    padding: 5px;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 12px;
+    border: 2px solid white;
+}
